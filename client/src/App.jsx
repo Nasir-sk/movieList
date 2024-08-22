@@ -3,7 +3,7 @@ import SignUp from './components/SignUp'
 import Login from './components/Login'
 import MovieList from './components/MovieList'
 import CompanyInfo from './components/CompanyInfo'
-import Navbar from './Navbar'
+import Navbar from './components/Navbar'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import ListOfMovies from './components/ListOfMovies'
 
