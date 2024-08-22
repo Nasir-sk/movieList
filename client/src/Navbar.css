@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  #0c181b;
+    padding: 5px 10px;
+  }
+
+  li{
+    list-style: none;
+    padding: 20px;
+  }
+  
+  a li{
+    color: white;
+  }
+
+  .red{
+    background-color: #143157;
+    color: white;
+  }
+
+  a{
+    text-decoration: none;
+  }
