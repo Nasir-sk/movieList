@@ -12,7 +12,7 @@ export default function Login() {
       
       if (storedUser && storedUser.name === name && storedUser.password === password) {
         alert('Login Successful');
-        navigate('/movielist')
+        navigate('/list-of-movies')
       } else {
         alert('Invalid Credentials');
       }
